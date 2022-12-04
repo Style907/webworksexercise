@@ -1,0 +1,17 @@
+1. Hypertext transfer protocol
+
+2. Uniform resource locator
+
+3 domain name system
+
+4. allows you to input key value pairs into the url
+
+5.GET- get data from server, POST - send data to server
+
+6. A request from the client that follows http protocol
+
+7. A response from the server that follows http protocol
+
+8.headers contain information about requests and responses 
+
+9. Your computer sends the request local, then to router, then to isp, then to dns, then gets an IP address, sends request to server, server responds, the browser then uses the information from the response to show webpage
